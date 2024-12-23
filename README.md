@@ -2,12 +2,19 @@
 Tässä tehtävässä pääasiallisena analyysikeinona käytetään aikasarja-analyysiä, jolla tarkastellaan Nesteen ja Fortumin osakekurssien kehitystä ja päivittäisiä muutosprosentteja. Aikasarja-analyysin avulla pyritään ymmärtämään osakekurssien pitkän aikavälin trendejä, lyhyen aikavälin vaihteluita sekä niiden välistä korrelaatiota.
 
 ## Aikasarja-analyysi sisältää seuraavat keskeiset menetelmät:
+
 **Visualisoinnit:** Osakekurssien kehityksen ja muutosprosenttien esittäminen kaavioilla.
+
 **Aggregointi:** Päivittäisten arvojen tiivistäminen kuukausi- ja vuosineljännestasolle.
+
 **Liukuvat keskiarvot:** Trendeihin keskittyminen lyhyen aikavälin vaihteluiden poistamiseksi.
+
 **Volatiliteetti:** Osakkeiden hintavaihteluiden laskeminen ja esittäminen vuositasolla.
+
 **Korrelaatio:** Selvitetään Nesteen ja Fortumin päivittäisten muutosprosenttien välinen yhteys.
+
 **Tilastolliset testit:** Esimerkiksi T-testillä tutkitaan eri viikonpäivien tuottoprosenttien eroja.
+
 
 ## Analyysin vaiheet
 1. Osakekurssien kehityksen tarkastelu:
